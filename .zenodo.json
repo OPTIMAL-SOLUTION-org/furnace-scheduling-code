@@ -1,0 +1,29 @@
+{
+  "language": "eng",
+  "license": "other-open",
+  "title": "furnace-scheduling",
+  "keywords": [
+    "scheduling",
+    "parallel unrelated machines",
+    "mathematical optimization",
+    "metalworking industry",
+    "java",
+    "jdecor",
+    "mixed-integer programming",
+    "operations research"
+  ],
+  "creators": [
+    {
+      "orcid": "0000-0002-8763-2056",
+      "affiliation": "OPTIMAL-SOLUTION.org",
+      "name": "Fath, Philipp"
+    },
+    {
+      "orcid": "0000-0002-8977-9414",
+      "affiliation": "OPTIMAL-SOLUTION.org",
+      "name": "Sayah, David"
+    }
+  ],
+  "access_right": "open",
+  "description": "<p>This repository provides an implementation used to generate the computational results presented in our (currently under revision) paper \"Scheduling heating tasks on parallel furnaces with setup times and conflicts\" (Lange, Fath, Sayah)</p>"
+}

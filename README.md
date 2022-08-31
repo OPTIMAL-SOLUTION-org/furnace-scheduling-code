@@ -1,7 +1,8 @@
 # furnace-scheduling
 
-This repository provides the implementation which was used to generate the computational results presented in the (
-currently under revision) paper __*Scheduling heating tasks on parallel furnaces with setup times and conflicts*__
+This repository provides the implementation which was used to generate the computational results presented in the paper
+> __*Scheduling heating tasks on parallel furnaces with setup times and conflicts*__ [![DOI:10.1007/978-3-031-08623-6_51](https://img.shields.io/static/v1?label=DOI&message=10.1007%2F978-3-031-08623-6_51&color=blue)](https://doi.org/10.1007/978-3-031-08623-6_51)
+
 by <a href="https://orcid.org/0000-0001-8317-5751">Julia
 Lange<img  src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-left:.3em;"></a>
 , <a href="https://orcid.org/0000-0002-8763-2056">Philipp
